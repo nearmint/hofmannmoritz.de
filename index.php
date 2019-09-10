@@ -19,12 +19,12 @@ www.hofmannmoritz.de</p>
             <li>Put icons for ISM (International School of Management), Gold4SMS Logo, Freecodecamp, The Odin Project and Khanacademy there  </li>
             <li>If one of the icons is clicked, a text bubble should appear under it with some information</li>
             <li>This website should be online at hofmannmoritz.de/.com</li>
-            <li>Connect hofmannmoritz.de to heroku</li>
+            <li>Make hofmannmoritz.de and hofmannmoritz.com resolve correctly into the heroku project</li>
 
         </ul>
 
         <ul>References used: 
-            <li>Get Heroku to accept html-only commits: https://stackoverflow.com/questions/17343354/deploy-html-only-app-to-heroku</li>
+            <li>Get Heroku to accept html-only commits by changing html file to php: https://stackoverflow.com/questions/17343354/deploy-html-only-app-to-heroku</li>
         </ul>
     </body>
 </html>
