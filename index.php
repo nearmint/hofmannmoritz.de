@@ -3,26 +3,32 @@
     <head>
         <title>Business Card</title>
         <link href="style.css" type="text/css" rel="stylesheet">
-</head>
+    </head>
     <body>
         <div class="container">
-            <h1>Moritz Hofmann</h1>
-Student & Entrepreneur
-            <p>
-Hofmann Handelsgesellschaft mbH<br>
-Regerstr. 1<br>
+            <img src="bcard.jpg" width="500px">
+            <div class="top-left">
+        <strong id="title" align="left">Moritz Hofmann</strong><br>
+<p align="left">Student & Entrepreneur</p>
+<br>
+<p align="left">Regerstr. 1<br>
 48301 Nottuln<br>
-Germany
+Germany</div></p></div>
+
+<div class="bottom-left">
+        <p>mowmoh (at) gmail.com<br><br>
+                www.hofmannmoritz.de</p>
+</div>
             </p>
-            <p>mowmoh (at) gmail.com
-www.hofmannmoritz.de</p>
+           
         </div>
         <ul>ToDo:
-            <li>Create a small background image and put the text over that, creating the illusion of a real business card, see <img src="screen_businesscard.png"></li>
+            <li>Create a small background image and put the text over that, creating the illusion of a real business card, see <img src="screen_businesscard.png">, looks similar to https://www.c-sharpcorner.com/UploadFile/72d20e/creating-business-card-using-html5/</li>
             <li>Put icons for ISM (International School of Management), Gold4SMS Logo, Freecodecamp, The Odin Project and Khanacademy there  </li>
             <li>If one of the icons is clicked, a text bubble should appear under it with some information</li>
             <li>This website should be online at hofmannmoritz.de/.com</li>
             <li>Make hofmannmoritz.de and hofmannmoritz.com resolve correctly into the heroku project</li>
+            <li>fix the text on the business card image: it should look the same in any browser size</li>
 
         </ul>
 
