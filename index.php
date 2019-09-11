@@ -1,8 +1,11 @@
 <!DOCTYPE html>
 <html>
-    <head><title>Business Card</title></head>
+    <head>
+        <title>Business Card</title>
+        <link href="style.css" type="text/css" rel="stylesheet">
+</head>
     <body>
-        <div>
+        <div class="container">
             <h1>Moritz Hofmann</h1>
 Student & Entrepreneur
             <p>
