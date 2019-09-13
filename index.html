@@ -33,9 +33,9 @@ Germany</p>
 <!-- References used: 
             Get Heroku to accept html-only commits by changing html file to php: https://stackoverflow.com/questions/17343354/deploy-html-only-app-to-heroku</li>
          -->
-<div align="center">
-         <img src="ism2.png">
-         <img src="g4s_trans.png">
+<div align="center" class="logos">
+         <img src="ism2.png" id="ism">
+         <img src="g4s_trans.png" id="g4s">
          <img src="odin.png" width="300px">
         </div>
          <!--
