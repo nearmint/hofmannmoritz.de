@@ -33,5 +33,7 @@ Germany</p>
 <!-- References used: 
             Get Heroku to accept html-only commits by changing html file to php: https://stackoverflow.com/questions/17343354/deploy-html-only-app-to-heroku</li>
          -->
+
+         <img src="ism.jpg">
     </body>
 </html>
