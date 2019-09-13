@@ -6,6 +6,7 @@
     </head>
     <body>
        <div class="content">
+            <!-- Notice: I'm writing this website based on a design I like @ http://ianenders.com/ -->
 <h1>Moritz Hofmann</h1>
 
 <p>I started selling things to my friends in primary school.</p>
@@ -16,6 +17,7 @@
 <p>Sold the shop though.</p>
 <p>I'm a student at International School of Management, but I was also once invited to a conference by Princeton University.</p>
 <p>I'm trying to learn <a href="#">programming</a>.</p>
+
        <!--
         <div class="container">
             <img src="bcard.jpg" width="500px">
