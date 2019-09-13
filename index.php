@@ -34,6 +34,8 @@ Germany</p>
             Get Heroku to accept html-only commits by changing html file to php: https://stackoverflow.com/questions/17343354/deploy-html-only-app-to-heroku</li>
          -->
 
-         <img src="ism.jpg">
-    </body>
+         <img src="ism2.png">
+         <img src="odin.png" width="300px">
+<img src="khan.svg" width="300px">
+        </body>
 </html>
