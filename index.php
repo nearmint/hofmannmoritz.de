@@ -1,10 +1,22 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Business Card</title>
+        <title>Moritz Hofmann</title>
         <link href="style.css" type="text/css" rel="stylesheet">
     </head>
     <body>
+       <div class="content">
+<h1>Moritz Hofmann</h1>
+
+<p>I started selling things to my friends in primary school.</p>
+<p>I traded on the internet as a 14 year-old.</p>
+<p>I created <a href="#">my first website</a>, when I was 16 years old. To sell more, duh.</p>
+<p>I received a $40,000 Entrepreneurial <a href="#">scholarship</a>. </p>
+<p>I founded and bootstrapped an online shop with more than 1 Mio. € revenue per year for several years.</p>
+<p>Sold the shop though.</p>
+<p>I'm a student at International School of Management, but I was also once invited to a conference by Princeton University.</p>
+<p>I'm trying to learn <a href="#">programming</a>.</p>
+       <!--
         <div class="container">
             <img src="bcard.jpg" width="500px">
             <div class="top-left">
@@ -17,10 +29,12 @@ Germany</p>
 <br><br>
 <p align="left">mowmoh (at) gmail.com<br>
     www.hofmannmoritz.de</p></div></div>
-
-            </p>
+    </p>
            
         </div>
+-->
+
+            
  <!-- ToDo:
     - Create a small background image and put the text over that, creating the illusion of a real business card, see <img src="screen_businesscard.png">, looks similar to https://www.c-sharpcorner.com/UploadFile/72d20e/creating-business-card-using-html5/
     - Put icons for ISM (International School of Management), Gold4SMS Logo, Freecodecamp, The Odin Project and Khanacademy there  
@@ -33,7 +47,7 @@ Germany</p>
 <!-- References used: 
             Get Heroku to accept html-only commits by changing html file to php: https://stackoverflow.com/questions/17343354/deploy-html-only-app-to-heroku</li>
          -->
-<div align="center" class="logos">
+<div class="logos">
          <img src="ism2.png" id="ism">
          <img src="g4s_trans.png" id="g4s">
          <img src="odin.png" width="300px">
@@ -42,5 +56,6 @@ Germany</p>
 <img src="khan.svg" width="300px">
 <img src="g4s.png">
          -->
+         </div>
         </body>
 </html>

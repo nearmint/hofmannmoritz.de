@@ -1,8 +1,20 @@
-#g4s {
-  padding-left: 30px;
+.content {
+
+  padding-left: 50px;
+  font-family: Helvetica Neue, Helvetica;
 }
 
-/* I don't understand how to use width percentage to resize an image correctly. */
+
+h1 {font-size: 110px;
+ 
+  margin: 0;
+  padding: 25px 0 0;
+}
+
+#g4s {
+  padding-left: 70px;
+}
+
 
 .logos {
     -webkit-transform: scale(0.8); /* Saf3.1+, Chrome */
@@ -12,7 +24,8 @@
             transform: scale(0.8);
                /* IE6–IE9 */
                filter: progid:DXImageTransform.Microsoft.Matrix(M11=0.9999619230641713, M12=-0.008726535498373935, M21=0.008726535498373935, M22=0.9999619230641713,SizingMethod='auto expand');
-}
+
+             }
 
 /* Container holding the image and the text */
 .container {
@@ -25,38 +38,6 @@
       font-size: 25px;
   }
 
-/* Bottom left text */
-.bottom-left {
-    position: absolute;
-    bottom: 80px;
-    left: 400px;
-  }
-  
-  /* Top left text */
-  .top-left {
-    position: absolute;
-    top: 8px;
-    left: 400px;
-  }
-  
-  /* Top right text */
-  .top-right {
-    position: absolute;
-    top: 8px;
-    right: 16px;
-  }
-  
-  /* Bottom right text */
-  .bottom-right {
-    position: absolute;
-    bottom: 8px;
-    right: 16px;
-  }
-  
-  /* Centered text */
-  .centered {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
+
+#ism {position: absolute; 
+  left: -150px;}
