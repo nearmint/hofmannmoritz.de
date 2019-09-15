@@ -9,14 +9,15 @@
             <!-- Notice: I'm writing this website based on a design I like @ http://ianenders.com/ -->
 <h1>Moritz Hofmann</h1>
 
-<p>I started selling things to my friends in primary school.</p>
-<p>I traded on the internet as a 14 year-old.</p>
+<p>I lived in Santa Barbara.</p>
+<p>Then I moved back to Germany.</p>
+<p>I now live in Dortmund.</p>
 <p>I created <a href="#">my first website</a>, when I was 16 years old. To sell more, duh.</p>
 <p>I received a $40,000 Entrepreneurial <a href="#">scholarship</a>. </p>
 <p>I founded and bootstrapped an online shop with more than 1 Mio. € revenue per year for several years.</p>
 <p>Sold the shop though.</p>
-<p>I'm a student at International School of Management, but I was also once invited to a conference by Princeton University.</p>
-<p>I'm trying to learn <a href="#">programming</a>.</p>
+<p>I'm a student at ISM, but I was also once invited to a <a href="#">conference</a> by Princeton University.</p>
+<p>I'm trying to learn <a href="https://github.com/nearmint">programming</a>.</p>
 
        <!--
         <div class="container">
