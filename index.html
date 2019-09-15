@@ -12,6 +12,7 @@
 <p>I lived in Santa Barbara.</p>
 <p>Then I moved back to Germany.</p>
 <p>I now live in Dortmund.</p>
+<p>I started selling stuff in 7th grade.</p>
 <p>I created <a href="#">my first website</a>, when I was 16 years old. To sell more, duh.</p>
 <p>I received a $40,000 Entrepreneurial <a href="#">scholarship</a>. </p>
 <p>I founded and bootstrapped an online shop with more than 1 Mio. € revenue per year for several years.</p>
